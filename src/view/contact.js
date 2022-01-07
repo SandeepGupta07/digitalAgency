@@ -35,16 +35,16 @@ function contact(){
                                 <div className="item">
                                     <h4>Office Location</h4>
                                     <div className="info">
-                                        <p>22 Baker Street,<br /> London, United Kingdom,<br /> W1U 3BW</p>
+                                        <p>22 Baker Street,<br /> Jalandhar, Punjab,<br /> PB 144027</p>
                                     </div>
                                 </div>
                                 <div className="item">
                                     <h4>Contact Info</h4>
                                     <div className="info">
                                         <ul>
-                                            <li>Phone: <span>+44-20-7328-4499</span></li>
-                                            <li>Fax: <span>+44-20-7328-4499</span></li>
-                                            <li>Email: <span>info@digilab.com</span></li>
+                                            <li>Phone: <span>+91-83-6002-28330</span></li>
+                                            {/* <li>Fax: <span>+44-20-7328-4499</span></li> */}
+                                            <li>Email: <span>info@coderaksh.com</span></li>
                                         </ul>
                                     </div>
                                 </div>
