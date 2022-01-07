@@ -14,7 +14,7 @@ import FAQ from './view/faq';
 import BLOG from './view/blog';
 import CASE from './view/caseStudies';
 import My404Component from './view/error';
-
+<script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script>
 
 ReactDOM.render(
   <React.StrictMode>
